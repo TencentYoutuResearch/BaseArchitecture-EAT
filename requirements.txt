@@ -1,0 +1,5 @@
+torch==1.6.0
+torchvision==0.7.0
+timm==0.4.6
+numpy-hilbert-curve=1.0.1
+pyzorder==0.0.1
