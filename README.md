@@ -1,7 +1,7 @@
 # Analogous to Evolutionary Algorithm: Designing a Unified Sequence Model
 ![Python 3.6.8](https://img.shields.io/badge/python-3.6.8-green.svg?style=plastic) ![PyTorch 1.6.0](https://img.shields.io/badge/pytorch-1.6.0-green.svg?style=plastic)
 
-Official PyTorch implementation of "[Analogous to Evolutionary Algorithm: Designing a Unified Sequence Model, NeurIPS'21](https://arxiv.org/pdf/1905.11805.pdf)".
+Official PyTorch implementation of "[Analogous to Evolutionary Algorithm: Designing a Unified Sequence Model, NeurIPS'21](https://arxiv.org/pdf/2105.15089.pdf)".
 
 ![EAT](eat.png)
 
