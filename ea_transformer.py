@@ -338,7 +338,7 @@ class EATransformer(nn.Module):
     def __init__(self, img_size=256, patch_size=16, in_chans=3, num_classes=1000, embed_dim=768, depth=12, depth_cls=2,
                  num_heads=12, mlp_ratio=4., qkv_bias=True, qk_scale=None,
                  drop_rate=0., attn_drop_rate=0., drop_path_rate=0., norm_layer=partial(nn.LayerNorm, eps=1e-6),
-                 pos_emb=True, cls_token=False, cls_token_head=True, loc_encoder='sis', block_type='base', local_type='conv',
+                 pos_emb=True, cls_token=False, cls_token_head=True, loc_encoder='sis', block_type='base_local', local_type='conv',
                  local_ks=3, local_ratio=0.5, ffn_type='base', sfc_mode='first'):
         super().__init__()
         self.num_classes = num_classes
