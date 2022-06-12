@@ -251,7 +251,7 @@ If our work is helpful for your research, please consider citing:
 ```
 
 # Acknowledgements
-We thanks for the following great works:
+We thank following works for providing assistance for our research:
 - [DeiT](https://github.com/facebookresearch/deit) for providing the baseline code.
 - [numpy-hilbert-curve](https://github.com/PrincetonLIPS/numpy-hilbert-curve) for realizing Hilbert SFC.
 - [pyzorder](https://github.com/smatsumt/pyzorder) for realizing Z-Order SFC.
